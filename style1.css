@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.screen{
+    border: 1px solid black;
+    background-color: blue;
+    width: 60%;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    color: white;
+    padding-left: 70px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+body{
+    background-color: red;
+}
+
+.container{
+    background-color: red;
+    /* height: 100vh; */
+}
+
+.buton{
+    margin-top: 100px;
+    margin-left: 180px;
+}
+
+.btn{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.dev{
+    display: flex;
+}
